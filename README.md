@@ -241,6 +241,3 @@ The component should take 1 prop:
 />
 ```
 
-**Expected Output:**
-
-![](https://media.giphy.com/media/1n7cAJu0MWerLnnohR/giphy.gif)
